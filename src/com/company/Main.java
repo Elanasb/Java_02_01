@@ -13,7 +13,5 @@ public class Main {
         System.out.println(vardas);
         System.out.println(vardas);
         System.out.println(vardas);
-        System.out.println(vardas);
-        System.out.println(vardas);
     }
 }
